@@ -53,13 +53,13 @@ def monopoly_with_fourth_tier
         :mortgage_value => "$"
       }, 
       :pennsylvania_railroad => {
-        :mortgage_value => "$100"
+        :mortgage_value => "$"
       }, 
       :b_and_o_railroad => {
-        :mortgage_value => "$" + 100
+        :mortgage_value => "$"
       }, 
       :shortline_railroad => {
-        :mortgage_value => "$100"
+        :mortgage_value => "$"
       }
     }
    }
